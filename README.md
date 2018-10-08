@@ -6,10 +6,11 @@ Liri App
 Get started:
     -Make sure to get a spotify API key/secret and insert those values into a .env file in the root folder to be able to run the spotify function.
         -the txt file should look like this:
-             # Spotify API keys
-
-            SPOTIFY_ID=your-spotify-id
-            SPOTIFY_SECRET=your-spotify-secret
+            
+           # Spotify API keys
+           
+           SPOTIFY_ID=your-spotify-id
+           SPOTIFY_SECRET=your-spotify-secret
 
 -Load up the liri.js file in a terminal
     -Use these 4 commands:
