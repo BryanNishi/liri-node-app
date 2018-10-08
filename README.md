@@ -11,10 +11,8 @@ Get started:
             SPOTIFY_ID=your-spotify-id
             SPOTIFY_SECRET=your-spotify-secret
 
-
-    -Load up the liri.js file in a terminal
-
-    -use these 4 commands:
+-Load up the liri.js file in a terminal
+    -Use these 4 commands:
         -spotify-this-song "enter song name here"
         -concert-this "enter artist name here"
         -movie-this "enter movie name here"
